@@ -1,0 +1,18 @@
+.App {
+}
+
+.page-link[disabled]{
+    color: gray;
+}
+
+.page-item {
+    cursor: pointer;
+  }
+
+.current-page {
+font-weight: bold;
+}
+
+.createGroupContainer {
+  display: flex;
+}
